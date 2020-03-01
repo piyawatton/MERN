@@ -1,0 +1,5 @@
+/* Todo styles */
+
+.completed {
+    text-decoration: line-through;
+}
