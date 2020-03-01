@@ -1,7 +1,7 @@
 {
-  "name": "@hashnode/mern-starter",
+  "name": "@phaitonious/mern-starter",
   "version": "2.4.0",
-  "description": "Boilerplate project for building Isomorphic apps using React and Redux",
+  "description": "Modifier version of git+https://github.com/Hashnode/mern-starter.git",
   "scripts": {
     "test": "cross-env NODE_ENV=test PORT=8080 MONGO_URL=mongodb://localhost:27017/mern-test node_modules/.bin/nyc node node_modules/ava/cli.js",
     "watch:test": "npm run test -- --watch",
